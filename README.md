@@ -15,7 +15,7 @@ It is built with Vue 3 and Vite and uses Vue Router with hash-based routing to e
 Clone repository and install dependencies:
 
 ```sh
-git clone https://github.com/philippkremers/game-theory-visualizer.git
+git clone https://github.com/philippkremers/gt-visualizer.git
 cd game-theory-visualizer
 npm install
 ```
